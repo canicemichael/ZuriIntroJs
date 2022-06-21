@@ -1,0 +1,1 @@
+alert("My name is Canice Ezugwu "+"\n"+"My height is 1.78m "+"\n"+"The name of my country is Nigeria ");
